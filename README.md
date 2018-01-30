@@ -1,9 +1,12 @@
 # SET-RANDOM-AMOUNT-OVER-PURCHASED-VEHICLES.
 
-1.In server_publishVehicle2.sqf
-//Find:
-    if(DZE_TRADER_SPAWNMODE) then {
-//above paste:
+1.In server_publishVehicle2.sqf Find:
+
+
+if(DZE_TRADER_SPAWNMODE) then {
+
+
+above paste:
  
 //CUSTOM FOR PURCHASED VEHICLES
 if (DZE_UseCustomPurchasedVehicles) then {
