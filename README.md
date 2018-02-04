@@ -4,7 +4,7 @@
 
 PASTE:
 ```ruby
- _object setfuel _fuel;
+ _object setfuel 0.3;
 ```
 BELOW OF:
 ```ruby
