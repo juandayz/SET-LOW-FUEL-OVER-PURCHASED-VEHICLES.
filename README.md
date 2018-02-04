@@ -1,6 +1,6 @@
 # SET-LOW FUEL-AMOUNT-OVER-PURCHASED-VEHICLES.
 
-1.In server_publishVehicle2.sqf Find:
+1.In server_publishVehicle2.sqf 
 
 PASTE:
 ```ruby
